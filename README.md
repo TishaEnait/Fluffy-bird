@@ -1,1 +1,1 @@
-# Fluffy-bird
+Fluffy Bird is a fun arcade game with a simple GUI, colorful graphics, and smooth controls. Players control a bird, avoid obstacles, and earn points. The bird moves up when tapped and falls due to gravity. The game improves timing, concentration, and quick reaction skills for all ages.
